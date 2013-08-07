@@ -13,5 +13,6 @@ Valid labs
 
 Usage
 -----
+    move-adcomp.ps1 [COMPUTER_NAME] [LAB_NAME]
     move-adcomp.ps1 optimus teklab
 This will move the computer OPTIMUS to the ECE TEK Lab OU
